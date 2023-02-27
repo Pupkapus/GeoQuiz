@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Москва столица России?</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct">Молодчик</string>
+    <string name="incorrect">А ты уверен?</string>
+</resources>
